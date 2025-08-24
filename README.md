@@ -1,0 +1,2 @@
+This is model which look for student dropout( prototype only for understanding-to get  Real architecure and implementation main- shivpratapsinghpanwar19@gmail.com ), it is based on 30+ factors which include education, parential info, socio-economic factors and many more. 
+To know more about this  model kindly visit this research paper: https://link.springer.com/chapter/10.1007/978-981-97-9006-7_20
